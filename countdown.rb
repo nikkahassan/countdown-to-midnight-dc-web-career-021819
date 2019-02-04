@@ -4,5 +4,5 @@ while number > 0
 puts "#{number} SECOND(S)!"
 x-= 1 
 end
-"HAPPY NEW YEAR!"
+return "HAPPY NEW YEAR!"
 end 
